@@ -1,0 +1,14 @@
+layout_spectrum: 0.3052569
+color:
+  saturation: 0.856235
+  lightness: 0.4056153
+  brandStrength: 0.4032258
+  brandColors:
+    - '#0D0D0D'
+    - '#394341'
+    - '#C7B32F'
+    - '#A3C7DF'
+    - '#FAB46D'
+  rhythmicContrast: 0.01459581
+typography_spectrum: 0.4366786
+name: PATHOS
